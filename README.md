@@ -35,7 +35,6 @@ Finsight is a powerful AI/ML tool that helps users analyze their bank statements
 
 - **Frontend**: Streamlit
 - **Backend**: Python (Pandas, NumPy, Matplotlib, NLP for queries)
-- **Statistics**: 
 - **Machine Learning**: Clustering & Anomaly Detection
 - **Data Handling**: CSV Parsing, Categorization
 
